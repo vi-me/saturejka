@@ -11,9 +11,18 @@ h2 {
 }
 
 body {
+  text-align: center;
   background-color: #ffefef;
+  width: 1200px;
 }
+
 main {
   background-color: #ffffff;
-  width: 400px;
+  padding: 50px;
+  margin: 50px;
+}
+
+.button {
+  background-color: #ffefef;
+  width: 100px;
 }
